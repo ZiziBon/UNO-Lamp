@@ -4,7 +4,7 @@ UNO&amp;Lamp one of my first project where i was forced to think outside the gui
 #Reasons
 I understood that most of my project were not a full project, only build using Arduino and Basic tool kit, which forced me to narrow my project construction and planning, however after deciding to add a used camera tripod as a carcass to my lamp which can be turned by simple button push, it might look simple but for me it's totally different starting from planning to adding external components.
 
-#Info UNO-Lamp
+##Info UNO-Lamp
 
 turned an old camera tripod into an adjustable desk lamp using an arduino and some leds. 
 
@@ -26,3 +26,14 @@ it made me realize I can't just eyeball physical builds if I want to make cleane
 
 ## how to run
 just upload dropped files (Two options available, C++ and INO). make sure to power the leds from an external 5v supply, not directly off the nano.
+
+<img width="960" height="1280" alt="photo_2026-09-26_22-36-53" src="https://github.com/user-attachments/assets/a23e6f41-34a6-4128-8873-cf974016f848" />
+<img width="960" height="1280" alt="photo_2026-09-26_22-37-04" src="https://github.com/user-attachments/assets/7b436262-0071-4cd4-892f-0225da153ee2" />
+
+##Construction Video
+
+
+https://github.com/user-attachments/assets/1a0ecd32-8aaa-4b49-b281-3cf935e99249
+https://github.com/user-attachments/assets/97bcbdd4-cf89-4346-85b9-28f3bb671d4b
+
+
